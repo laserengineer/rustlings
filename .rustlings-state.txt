@@ -1,8 +1,7 @@
 DON'T EDIT THIS FILE!
 
-options1
+quiz2
 
-intro1
 intro2
 variables1
 variables2
@@ -48,4 +47,3 @@ modules3
 hashmaps1
 hashmaps2
 hashmaps3
-quiz2
