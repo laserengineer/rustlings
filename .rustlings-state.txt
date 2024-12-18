@@ -1,11 +1,8 @@
 DON'T EDIT THIS FILE!
 
-<<<<<<< HEAD
-errors1
-=======
-options1
->>>>>>> f2015e88dd43418d0699c4431ddbac1848179f0d
+errors5
 
+intro1
 intro2
 variables1
 variables2
@@ -51,11 +48,11 @@ modules3
 hashmaps1
 hashmaps2
 hashmaps3
-<<<<<<< HEAD
 quiz2
 options1
 options2
 options3
-=======
-quiz2
->>>>>>> f2015e88dd43418d0699c4431ddbac1848179f0d
+errors1
+errors2
+errors3
+errors4

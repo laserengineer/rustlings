@@ -28,29 +28,17 @@ mod my_module {
 
     // TODO: Complete the function as described above.
     pub fn transformer(input: Vec<(String, Command)>) -> Vec<String> {
-<<<<<<< HEAD
         let mut output: Vec<String> = Vec::new();
 
         for (string, command) in input {
             let processed_string = match command {
-=======
-        let mut result = Vec::new();
-        for (string, command) in input {
-            let new_string = match command {
->>>>>>> f2015e88dd43418d0699c4431ddbac1848179f0d
                 Command::Uppercase => string.to_uppercase(),
                 Command::Trim => string.trim().to_string(),
                 Command::Append(n) => string + &"bar".repeat(n),
             };
-<<<<<<< HEAD
             output.push(processed_string);
         }
         output
-=======
-            result.push(new_string);
-        }
-        result
->>>>>>> f2015e88dd43418d0699c4431ddbac1848179f0d
     }
 }
 
