@@ -7,6 +7,7 @@ fn main() {
     // `Vec<T>`. Choose `T` as some integer type that can be created from
     // `u8` and `i8`.
     let mut numbers: Vec<i32> = Vec::new();
+    // let mut numbers = Vec::new();
 
     // Don't change the lines below.
     let n1: u8 = 42;
