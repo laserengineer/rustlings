@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-generics2
+macros2
 
 intro1
 intro2
@@ -66,3 +66,22 @@ traits3
 traits4
 traits5
 quiz3
+lifetimes1
+lifetimes2
+lifetimes3
+tests1
+tests2
+tests3
+iterators1
+iterators2
+iterators3
+iterators4
+iterators5
+box1
+rc1
+arc1
+cow1
+threads1
+threads2
+threads3
+macros1
